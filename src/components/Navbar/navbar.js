@@ -1,6 +1,7 @@
 import './navbar.scss';
 import $ from 'jquery';
 
+
 const createNavbar = () => {
   const domString = `<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <a class="navbar-brand" href="#">Home for the Holidays</a>
